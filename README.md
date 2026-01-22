@@ -1,3 +1,6 @@
 # Zoho-Round-2
-Day1 - Diamond Pattern
-Day2 - Hollow Diamond
+1 - Diamond Pattern
+
+2 - Hollow Diamond
+
+3 - X-Pattern
